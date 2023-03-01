@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\bin\Debug\Programa01_02.exe.config
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\bin\Debug\Programa01_02.exe
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\bin\Debug\Programa01_02.pdb
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.Form1.resources
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.Properties.Resources.resources
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.exe
+C:\Users\HP\source\repos\Programa01_02\Programa01_02\obj\Debug\Programa01_02.pdb

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.Form1.resources
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.Form2.resources
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.Properties.Resources.resources
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\bin\Debug\ExamenUnidad01.exe.config
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\bin\Debug\ExamenUnidad01.exe
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\bin\Debug\ExamenUnidad01.pdb
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.exe
+C:\Users\HP\source\repos\ExamenUnidad01\ExamenUnidad01\obj\Debug\ExamenUnidad01.pdb
